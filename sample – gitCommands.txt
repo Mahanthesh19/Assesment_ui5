@@ -1,11 +1,1 @@
-git init
-
-git remote add origin https://github.com/Mahanthesh19/Assesment_ui5.git
-
-git status
-
-git add .
-
-git remote -v push origin main
-
-git branch checkout
+sample testing git upload
